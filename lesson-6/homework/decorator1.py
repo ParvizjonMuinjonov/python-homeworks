@@ -4,15 +4,15 @@ second = int(input("Enter b: "))
 def check(func):
     def wrapper(a, b):
         try:
-            print(func(a / b))
+            return func(a / b)
         except ZeroDivisionError:
-            print("Denominator can't be zero")
+            return "Denominator can't be zero"
     return wrapper
 
 @check
 
-def div(first, b=second):
-    return first
+def div(result):
+    return result
 
-div(first, second)
+print(div(first, second))
 
