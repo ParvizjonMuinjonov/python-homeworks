@@ -1,0 +1,4 @@
+Total words: 16
+Top 2 common words:
+is - 3 times
+file - 3 times

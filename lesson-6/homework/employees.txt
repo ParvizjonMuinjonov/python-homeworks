@@ -1,0 +1,15 @@
+1002, Jane Smith, Data Scientist, 85000  
+1003, Mike Johnson, Project Manager, 90000  
+1004, Emily Davis, UX Designer, 70000  
+1005, David Brown, DevOps Engineer, 95000  
+1006, Sarah Wilson, Product Manager, 88000  
+1007, Chris Moore, Backend Developer, 78000  
+1008, Anna Taylor, Frontend Developer, 76000  
+1009, Robert White, Business Analyst, 82000  
+1010, Laura Harris, QA Engineer, 72000  
+1011, James Anderson, Security Analyst, 91000  
+1012, Olivia Martin, AI Engineer, 99000  
+1013, William Thompson, Cloud Architect, 102000  
+1014, Sophia Garcia, Database Administrator, 86000  
+1015, Benjamin Martinez, Network Engineer, 81000  
+1001, Anis, Student, 128923
