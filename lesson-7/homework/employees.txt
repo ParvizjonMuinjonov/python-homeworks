@@ -1,0 +1,24 @@
+1000, Alice Johnson, Software Engineer, 85000  
+1001, Bob Smith, Data Analyst, 78000  
+1002, Charlie Brown, HR Manager, 92000  
+1003, David White, IT Support, 60000  
+1004, Emily Clark, Marketing Manager, 88000  
+1005, Frank Adams, Sales Executive, 75000  
+1006, Grace Turner, Project Manager, 95000  
+1007, Henry Wilson, Accountant, 70000  
+1008, Isabella Lee, Graphic Designer, 68000  
+1009, Jack Thompson, Operations Manager, 98000  
+1010, Kelly Rogers, Business Analyst, 82000  
+1011, Liam Scott, Network Engineer, 84000  
+1012, Mia Walker, Customer Support, 58000  
+1013, Noah Bennett, Software Developer, 87000  
+1014, Olivia Carter, Financial Analyst, 90000  
+1015, Peter Hall, Technical Writer, 65000  
+1016, Quinn Evans, Systems Administrator, 89000  
+1017, Rachel Green, UX Designer, 72000  
+1018, Samuel King, Mechanical Engineer, 86000  
+1019, Tina Moore, Legal Advisor, 99000  
+1020, Umar Patel, Data Scientist, 97000  
+1021, Victoria Reed, HR Specialist, 74000  
+1022, William Scott, Cybersecurity Analyst, 91000  
+1023, Xavier Lewis, Supply Chain Manager, 93000
