@@ -16,7 +16,7 @@ class Bank:
         account_number = len(self.accounts) + 1
         account = Account(account_number, name, initial_deposit)
         self.accounts[account_number] = account
-        self.save_to_file()  # Persist the new account
+        self.save_to_file()  
         print(f"Account created with number {account_number}.")
         return account_number
     
@@ -40,7 +40,7 @@ class Bank:
                 return
             account = self.accounts[account_number]
             account.balance += amount
-            self.save_to_file()  # Persist the updated balance
+            self.save_to_file() 
             print(f"Deposited {amount} to account number {account_number}. New balance: {account.balance}")
         else:
             print(f"Account number {account_number} not found.")
@@ -53,7 +53,7 @@ class Bank:
                 return
             if account.balance >= amount:
                 account.balance -= amount
-                self.save_to_file()  # Persist the updated balance
+                self.save_to_file()  
                 print(f"Withdrew {amount} from account number {account_number}. New balance: {account.balance}")
             else:
                 print(f"Insufficient balance in account number {account_number}.")
@@ -81,10 +81,10 @@ class Bank:
             print("Error loading file or invalid data format. Starting with empty accounts.")
 
 
-# Main program to test the Bank class
+
 def main():
     bank = Bank()
-    bank.load_from_file()  # Load existing accounts at startup
+    bank.load_from_file()  
     
     while True:
         print("\n=== Bank Menu ===")
