@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "task": "Do laundry",
+        "completed": false,
+        "priority": 3
+    },
+    {
+        "id": 2,
+        "task": "Buy groceries",
+        "completed": true,
+        "priority": 2
+    },
+    {
+        "id": 3,
+        "task": "Finish homework",
+        "completed": false,
+        "priority": 1
+    },
+    {
+        "id": 4,
+        "task": "Clean the house",
+        "completed": false,
+        "priority": 4
+    },
+    {
+        "id": 5,
+        "task": "Read a book",
+        "completed": true,
+        "priority": 2
+    },
+    {
+        "id": 6,
+        "task": "Write a blog post",
+        "completed": false,
+        "priority": 3
+    },
+    {
+        "id": 7,
+        "task": "Call mom",
+        "completed": true,
+        "priority": 1
+    },
+    {
+        "id": 8,
+        "task": "Water the plants",
+        "completed": false,
+        "priority": 2
+    },
+    {
+        "id": 9,
+        "task": "Exercise for 30 minutes",
+        "completed": true,
+        "priority": 4
+    },
+    {
+        "id": 10,
+        "task": "Plan next week's schedule",
+        "completed": false,
+        "priority": 3
+    },
+    {
+        "id": 11,
+        "task": "Respond to emails",
+        "completed": true,
+        "priority": 2
+    },
+    {
+        "id": 12,
+        "task": "Cook dinner",
+        "completed": false,
+        "priority": 4
+    },
+    {
+        "id": 13,
+        "task": "Pay bills",
+        "completed": true,
+        "priority": 1
+    },
+    {
+        "id": 14,
+        "task": "Fix the leaking tap",
+        "completed": true,
+        "priority": 3
+    },
+    {
+        "id": 15,
+        "task": "Go for a walk",
+        "completed": true,
+        "priority": 2
+    },
+    {
+        "id": 16,
+        "task": "Practice coding",
+        "completed": false,
+        "priority": 4
+    },
+    {
+        "id": 17,
+        "task": "Watch an educational video",
+        "completed": true,
+        "priority": 3
+    },
+    {
+        "id": 18,
+        "task": "Organize workspace",
+        "completed": false,
+        "priority": 2
+    },
+    {
+        "id": 19,
+        "task": "Meditate for 10 minutes",
+        "completed": true,
+        "priority": 1
+    },
+    {
+        "id": 20,
+        "task": "Write a to-do list for tomorrow",
+        "completed": false,
+        "priority": 2
+    }
+]

@@ -1,0 +1,21 @@
+ID,Task Name,Completed Status,Priority
+1,Do laundry,False,3
+2,Buy groceries,True,2
+3,Finish homework,False,1
+4,Clean the house,False,4
+5,Read a book,True,2
+6,Write a blog post,False,3
+7,Call mom,True,1
+8,Water the plants,False,2
+9,Exercise for 30 minutes,True,4
+10,Plan next week's schedule,False,3
+11,Respond to emails,True,2
+12,Cook dinner,False,4
+13,Pay bills,True,1
+14,Fix the leaking tap,True,3
+15,Go for a walk,True,2
+16,Practice coding,False,4
+17,Watch an educational video,True,3
+18,Organize workspace,False,2
+19,Meditate for 10 minutes,True,1
+20,Write a to-do list for tomorrow,False,2
